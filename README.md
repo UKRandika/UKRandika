@@ -16,6 +16,9 @@
 <!-- start quote -->
 💬 Quote of the Day: "අහස කොච්චර පාලු වුනත් හඳ තනියෙන් හරි බැබලුනා.."
 <!-- end quote -->
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ### Languages 
 <a href="#"><img alt="JAVA" src="https://img.shields.io/badge/JAVA-%23777BB4.svg?logo=java&logoColor=white"></a>
