@@ -123,7 +123,7 @@
 <a href="https://www.npmjs.com/~dinush"><img alt="OBS Studio" src="https://img.shields.io/badge/Npm-181717?logo=npm&logoColor=white"></a>
 <a href="https://www.kaggle.com/dinushchathurya"><img alt="OBS Studio" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"></a>
 
----
+<!-- ---
 
 ### Research 
 
@@ -131,7 +131,7 @@
 
 ---
 
-### Connect with me
+### Connect with me -->
 
 <!-- [<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/dinush.chathurya)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/DinushChathurya)
