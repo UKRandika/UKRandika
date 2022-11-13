@@ -133,7 +133,7 @@
 
 ### Connect with me
 
-[<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/dinush.chathurya)
+<!-- [<img src="https://img.shields.io/badge/Facebook-1877F2?&logo=facebook&logoColor=white"/>](https://m.facebook.com/dinush.chathurya)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?&logo=twitter&logoColor=white"/>](https://twitter.com/DinushChathurya)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/dinushchathurya)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?&logo=youtube&logoColor=white"/>](https://www.youtube.com/channel/UCEByobwqWIcn7ujLG9TTDcQ)
@@ -141,3 +141,4 @@
 [<img src="https://img.shields.io/badge/Radio-E434AA?&logo=drooble&logoColor=white"/>](https://dinushchathurya.github.io/radio)
 [<img src="https://img.shields.io/badge/Patreon-FF424D?&logo=patreon&logoColor=white"/>](https://www.patreon.com/dinushchathurya)
 [<img src="https://img.shields.io/badge/Blog-FFA500?&logo=rss&logoColor=white"/>](https://codingtricks.io/)
+ -->
