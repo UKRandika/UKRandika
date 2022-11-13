@@ -16,13 +16,13 @@
 <!-- end quote -->
 
 ### Languages 
-
+<a href="#"><img alt="JAVA" src="https://img.shields.io/badge/JAVA-%23777BB4.svg?logo=java&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white" ></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white" ></a>
 <a href="#"><img alt="JS" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black" ></a>
 <a href="#"><img alt="Boostrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap" ></a>
 <a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node-dot-js&logoColor=white" ></a>
-<a href="#"><img alt="JAVA" src="https://img.shields.io/badge/JAVA-%23777BB4.svg?logo=java&logoColor=white"></a>
+
 <!-- <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white" ></a> -->
 <!--<a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white" ></a> -->
 <!-- <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" ></a> -->
@@ -30,8 +30,8 @@
 ---
 ### Frameworks
 
-<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Laravel-black?&logo=laravel&logoColor" ></a>
-<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Ionic-3880FF?&logo=ionic&logoColor=white" ></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/SpringBoot-black?&logo=springboot&logoColor" ></a>
+<a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Angular-3880FF?&logo=angular&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"> </a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?&logo=tailwind-css&logoColor=white" ></a>
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/jQuery-0769AD?&logo=jquery&logoColor=white" ></a>
