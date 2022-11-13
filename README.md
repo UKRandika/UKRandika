@@ -1,8 +1,8 @@
 ## Hi there, I am Randika Vishwajith
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Open-Source+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;)](https://git.io/typing-svg)
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 <img align="right" alt="PNG" src="https://github.com/dinushchathurya/dinushchathurya/blob/master/cat.png" width="300" height="300" />
 <!-- ### I'm Social Media Influencer, Developer, Content Creator and Blogger! -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height="30px"> -->
