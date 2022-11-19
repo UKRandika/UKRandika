@@ -1,5 +1,5 @@
 ## Hi there, I am Randika Vishwajith
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Open-Source+Enthusiast;DevOps Lover;Social+Media+Influencer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Engineer;Open-Source+Enthusiast;DevOps+Lover;Social+Media+Influencer;AWS+Solution+Architecture+Learner)](https://git.io/typing-svg)
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div> -->
