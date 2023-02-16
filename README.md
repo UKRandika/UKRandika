@@ -13,9 +13,6 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read & hiking
 
-<!-- start quote -->
-💬 Quote of the Day: "නොකියමි බලා හිදින බව නුඹට නමුත් බලා සිටිමි එය දැනෙන තුරු නුඹට"
-<!-- end quote -->
 
 
 <div align="center">
